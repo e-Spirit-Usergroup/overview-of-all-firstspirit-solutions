@@ -1,0 +1,13 @@
+name,short_description,contact,type,links
+System,All default system (internal and external) components,e-Spirit,e-Spirit_internal,
+FirstSpirit Apache FOP,Apache FOP library for creating PDFs within FirstSpirit,e-Spirit,e-Spirit_integration,
+FirstSpirit Agency Support,include external html+css+js into your dev-project,e-Spirit,e-Spirit_integration,
+FirstSpirit BerkeleyDB JE V7,default storage backend for FirstSpirit (project) repository,e-Spirit,e-Spirit_internal,
+FirstSpirit CTX ContentCreator,ContentCreator integration for CTX Platform,e-Spirit,e-Spirit_integration,
+FirstSpirit Expansion Pack - Forms,??something with forms,e-Spirit,e-Spirit_??,
+FirstSpirit Jetty Server,default webserver that should not be used in production szenarios,e-Spirit,e-Spirit_internal,
+FirstSpirit Native Clipboard,clipboard in SiteArchitect,e-Spirit,e-Spirit_internal,
+FirstSpirit SearchFilter,??,e-Spirit,e-Spirit_internal,
+FirstSpirit TabsSwitchApplication,??,e-Spirit,e-Spirit_internal,
+FirstSpirit Template Debugger,useful within development/bugfixing process to debug your templates,e-Spirit,e-Spirit_internal,
+FirstSpirit Webapplications,"the default Webapplications like FirstSpirit Preview, Staging, ServerMonitoring...",e-Spirit,e-Spirit_internal,

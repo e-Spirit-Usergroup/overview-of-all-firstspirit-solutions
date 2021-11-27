@@ -6,6 +6,22 @@ This repository is meant to contain all solutions that have been implemented in 
 
 ## FirstSpirit modules / Module
 
+### e-Spirit modules bundled within FirstSpirit
+
+
+<ul>
+{% for column in site.data.eSpiritBundledModulesWithinFirstSpirit %}
+  <li>{{ column.name" }} || {{ column.short_description }} || {{ column.contact }} || {{ column.type }} || {{ column.links }}</li>
+{% endfor %}
+</ul>
+
+
+### e-Spirit official modules for FirstSpirit
+
+### e-Spirit market-place modules
+
+
+
 ## FirstSpirit solutions / (Projekt)Lösungen
 
 ## FirstSpirit others / Diverses
