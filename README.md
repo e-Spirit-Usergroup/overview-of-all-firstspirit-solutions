@@ -9,11 +9,35 @@ This repository is meant to contain all solutions that have been implemented in 
 ### e-Spirit modules bundled within FirstSpirit
 
 
-<ul>
+<table>
+<colgroup>
+<col width="1*" />
+<col width="5*" />
+<col width="1*" />
+<col width="1*" />
+<col width="2*" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>Description</th>
+<th>Contact</th>
+<th>Type</th>
+<th>Link(s)</th>
+</tr>
+</thead>
+<tbody>
 {% for column in site.data.eSpiritBundledModulesWithinFirstSpirit %}
-  <li>{{ column.name" }} || {{ column.short_description }} || {{ column.contact }} || {{ column.type }} || {{ column.links }}</li>
+  <tr>
+     <td markdown="span">{{column.name}}</td>
+     <td markdown="span">{{column.short_description}}</td>
+     <td markdown="span">{{column.contact}}</td>
+     <td markdown="span">{{column.type}}</td>
+     <td markdown="span">{{column.links}}</td>
+  </tr>
 {% endfor %}
-</ul>
+</tbody>
+</table>
 
 
 ### e-Spirit official modules for FirstSpirit
