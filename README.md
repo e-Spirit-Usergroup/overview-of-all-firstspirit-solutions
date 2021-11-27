@@ -46,21 +46,14 @@ This repository is meant to contain all solutions that have been implemented in 
 
 ### e-Spirit Partner modules
 
-<table>
-<colgroup>
-<col />
-<col width="50%" />
-<col />
-<col />
-<col />
-</colgroup>
+<table style="width: 100%">
 <thead>
 <tr class="header">
-<th>Name</th>
-<th>Description</th>
-<th>Contact</th>
-<th>Type</th>
-<th>Link(s)</th>
+    <th>Name</th>
+    <th style="width: 40%">Description</th>
+    <th>Contact</th>
+    <th>Type</th>
+    <th>Link(s)</th>
 </tr>
 </thead>
 <tbody>
