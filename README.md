@@ -46,24 +46,24 @@ This repository is meant to contain all solutions that have been implemented in 
 
 ### e-Spirit Partner modules
 
-<table style="width: 100%">
+<table>
 <thead>
 <tr class="header">
-    <th>Name</th>
-    <th style="width: 40%">Description</th>
-    <th>Contact</th>
-    <th>Type</th>
-    <th>Link(s)</th>
+    <th style="width: 10%;">Name</th>
+    <th style="width: 60%;">Description</th>
+    <th style="width: 10%;">Contact</th>
+    <th style="width: 10%;">Type</th>
+    <th style="width: 10%;">Link(s)</th>
 </tr>
 </thead>
 <tbody>
 {% for column in site.data.partnerModules %}
   <tr>
      <td markdown="span">{{column.name}}</td>
-     <td markdown="span">{{column.short_description}}</td>
-     <td markdown="span">{{column.contact}}</td>
-     <td markdown="span">{{column.type}}</td>
-     <td markdown="span">{{column.links}}</td>
+     <td style="font-size: smaller;" markdown="span">{{column.short_description}}</td>
+     <td style="font-size: smaller;" markdown="span">{{column.contact}}</td>
+     <td style="font-size: smaller;" markdown="span">{{column.type}}</td>
+     <td style="font-size: smaller;" markdown="span">{{column.links}}</td>
   </tr>
 {% endfor %}
 </tbody>
