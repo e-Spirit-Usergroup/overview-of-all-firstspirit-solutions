@@ -48,11 +48,11 @@ This repository is meant to contain all solutions that have been implemented in 
 
 <table>
 <colgroup>
-<col width="1*" />
-<col width="5*" />
-<col width="1*" />
-<col width="1*" />
-<col width="2*" />
+<col />
+<col width="50%" />
+<col />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
