@@ -49,3 +49,7 @@ This repository is meant to contain all solutions that have been implemented in 
 ## FirstSpirit solutions / (Projekt)Lösungen
 
 ## FirstSpirit others / Diverses
+
+## Imprint / Impressum
+
+[https://www.e-spirit-usergroup.de/?page_id=290](https://www.e-spirit-usergroup.de/?page_id=290)
