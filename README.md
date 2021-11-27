@@ -8,7 +8,7 @@ This repository is meant to contain all solutions that have been implemented in 
 
 ### e-Spirit modules bundled within FirstSpirit
 
-
+<div class="datatable-begin"></div>
 <table>
 <colgroup>
 <col width="1*" />
@@ -38,7 +38,7 @@ This repository is meant to contain all solutions that have been implemented in 
 {% endfor %}
 </tbody>
 </table>
-
+<div class="datatable-end"></div>
 
 ### e-Spirit official modules for FirstSpirit
 
