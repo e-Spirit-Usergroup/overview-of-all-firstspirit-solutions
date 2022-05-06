@@ -1,5 +1,5 @@
 name,short_description,contact,type,links
-**WebPConvert** by PrieglWorks,converting generated jpg/png images to webp format with intelligent 404 protection,markus@priegl.solutions,Partner_OpenSource,
+**<s>WebPConvert</s>** by PrieglWorks,OBSOLETE: please use 2022.4 standard WebP support via resolutions! <s>converting generated jpg/png images to webp format with intelligent 404 protection</s>,markus@priegl.solutions,Partner_OpenSource,
 **S3Deploy** by PrieglWorks,"wrapper for [rclone](https://rclone.org/) - to [copy/manipulate](https://rclone.org/commands/) data from FirstSpirit generation directory to [any supported target system like S3, CIFS, NFS, azure storage, AWS, gcloud](https://rclone.org/overview/) - supports all configuration options provided by rclone",markus@priegl.solutions,Partner,
 **JsonForDom** by PrieglWorks,automatic generation of valid json representation for DOM & DOMTABLE - nice for e.g. CaaS projects without forced crappy HTML-tags,markus@priegl.solutions,Partner,
 TO,BE,CONTINUED,BY,YOU
